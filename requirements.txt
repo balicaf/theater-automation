@@ -1,0 +1,5 @@
+sudo apt-get install -y totem
+pip install git+https://github.com/mpapi/lazylights@2.0
+sudo apt-get install -y mediainfo
+sudo apt-get install redshift redshift-gtk
+sudo apt-get install exfat-utils exfat-fuse
