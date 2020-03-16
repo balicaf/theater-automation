@@ -1,6 +1,6 @@
 # theater-automation
 The goal of theater-automation is to offer a plug and play experience to watch heavy movies easily on Jetson Nano.
-VLC relies on FFMPEG whereas Jetson Nano has only Gstreamer that supports hardware decoding (e.g. to watch 4k h265 movies)
+VLC relies on FFMPEG whereas for Jetson Nano only Gstreamer supports hardware decoding (e.g. to watch 4k h265 movies)
 
 What does this script/code do?
 -At startup (When Jetson is booted), a user interface appears that allows the user to select his movie.
